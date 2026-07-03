@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://grenoble.developpementapps.app/sitemap.xml
